@@ -13,3 +13,10 @@ El repositorio está organizado de la siguiente manera:
 - **logsTetragon.json**: Contiene los logs obtenidos con las políticas de Tetragon.
 - **network-monitoring.yaml**: Contiene la política de Tetragon para monitorizar los accesos a redes externas al cluster.
 - **syscall-monitoring.py**: Contiene el código eBPF para monitorizar la llamada al sistema execve.
+
+# Autor
+- **Nombre Completo**: Raúl Bayón Martínez
+- **Correo Electrónico**: rbaym@unileon.es
+- **Institución Académica**: Universidad de León
+
+![image](https://github.com/rbayom00/tfm-tetragon-ebpf/assets/55236794/c1bb316a-2bfa-47cb-a23c-f760707f3aed)
