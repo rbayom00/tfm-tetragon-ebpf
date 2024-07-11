@@ -2,7 +2,10 @@
 
 ## Descripción
 
-Este repositorio contiene las políticas de Tetragon y programas eBPF desarrollados y utilizados durante la realización del Trabajo de Fin de Máster titulado **"Análisis de malware obtenido en redes de señuelos"**. El objetivo principal de este trabajo es montar un sistema de detección y monitorización de intrusos.
+Este repositorio contiene las políticas de Tetragon y programas eBPF desarrollados y utilizados durante la realización del Trabajo de Fin de Máster titulado **"Análisis de malware obtenido en redes de señuelos"**. El objetivo principal de este trabajo es montar un sistema de detección y monitorización de intrusos. A continuación puede verse una imagen sobre los logs compactos de Tetragon:
+
+![zzz](https://github.com/rbayom00/tfm-tetragon-ebpf/assets/55236794/2eb6a270-c4a1-4837-9627-b5ec834b8cfd)
+
 
 ## Contenido del Repositorio
 
